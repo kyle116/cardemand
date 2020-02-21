@@ -1,0 +1,53 @@
+[{
+	"type": "crossover",
+  "count": 0,
+  "aliases": []
+}, {
+	"type": "large car",
+	"count": 0,
+	"aliases": ["big car"]
+}, {
+	"type": "midsize car",
+	"count": 0,
+	"aliases": ["medium car"]
+}, {
+	"type": "minivan",
+	"count": 0,
+	"aliases": ["van"]
+}, {
+	"type": "truck",
+	"count": 0,
+	"aliases": ["pickup"]
+}, {
+	"type": "small car",
+	"count": 0,
+	"aliases": ["economy car"]
+}, {
+	"type": "special purpose",
+	"count": 0,
+	"aliases": []
+}, {
+	"type": "SUV",
+	"count": 0,
+	"aliases": []
+}, {
+	"type": "station wagon",
+	"count": 0,
+	"aliases": ["hatchback", "hatch"]
+}, {
+	"type": "sport",
+	"count": 0,
+	"aliases": ["sports", "sporty"]
+}, {
+	"type": "sedan",
+	"count": 0,
+	"aliases": []
+}, {
+	"type": "coupe",
+	"count": 0,
+	"aliases": ["2 door", "two door"]
+}, {
+	"type": "none",
+	"count": 0,
+	"postID": []
+}]
